@@ -1,0 +1,10 @@
+* {
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+header {
+    background-color: dodgerblue;
+    color: white;
+    display: flex;
+}
